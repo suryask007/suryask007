@@ -1,5 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif)]  
-<h1 align="center">Hi 👋, I'm Surya K</h1>  
+ <h1 align="center">Hi 👋, I'm Surya K</h1>  
 <h3 align="center">An AI/ML Engineer with over one year of experience</h3>  
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47oi6ggx0w92taky2ilso2m6erizyeqtcliw9ennws&rid=giphy.gif&ct=g">  
