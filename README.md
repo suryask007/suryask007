@@ -41,7 +41,5 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>  
   </a>  
-  <a href="https://generativeai.google/" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Generative_AI_Icon.svg" alt="Generative AI" width="40" height="40"/>  
-  </a>  
+
 </p>  
